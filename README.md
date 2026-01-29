@@ -1,4 +1,4 @@
-# Ticketing System Home Lab
+# Ticketing System Lab
 A hands-on use case demonstrating how I track, manage, and resolve user issues using a ticketing system.
 
 <h2>Description</h2>

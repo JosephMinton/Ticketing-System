@@ -2,7 +2,7 @@
 A hands-on use case demonstrating how I track, manage, and resolve user issues using a ticketing system.
 
 <h2>Description</h2>
-This lab simulates a Tier 1 IT help desk ticketing workflow, focusing on proper ticket creation, documentation, prioritization, escalation, and closure. Scenarios include well-written and poorly written user tickets to practice identifying missing information, improving clarity, and applying appropriate resolution and escalation procedures. The lab emphasizes real-world help desk fundamentals such as user communication, incident management, and clean handoff to specialized teams.
+This lab simulates a Tier 1 IT help desk ticketing workflow, focusing on proper ticket creation, documentation, prioritization, escalation, and closure. Scenarios include well-written and poorly written user tickets to practice identifying missing information, improving clarity, and applying appropriate resolution and escalation procedures. The lab emphasizes real world help desk fundamentals such as user communication, incident management, and clean handoff to specialized teams.
 <br />
 
 <h2>Objective</h2>
@@ -19,7 +19,7 @@ This lab simulates a Tier 1 IT help desk ticketing workflow, focusing on proper 
 
 <p>
   <span style="font-weight:bold;">Spiceworks Cloud Help Desk:</span>
-  For this at home lab, I used Spiceworks Cloud Help Desk which is a cloud-based ticketing system designed specifically for IT professionals and small to medium-sized businesses.
+  For this at home lab, I used Spiceworks Cloud Help Desk which is a cloud based ticketing system designed specifically for IT professionals and small to medium sized businesses.
 </p>
 
 <p align="center">
@@ -36,14 +36,14 @@ First visual of Spiceworks: <br/>
 
 <h1>II. Documentation Quality and Clarity</h1>
 
-<p>Created a vague ticket to simulate a poorly submitted end-user request:</p>
+<p>Created a vague ticket to simulate a poorly submitted end user request:</p>
 <ul>
 <li><strong>Original Subject: “My internet isn’t working”</strong></li>
 <li><strong>Original Description: “I can’t browse the internet and send emails”</strong></li>
 </ul>
-<p></p>This highlighted common issues: lack of detail, unclear symptoms, and missing context. Roleplay scenarios represented typical non-technical users and executive-level submissions to emphasize real-world ticket clarity requirements.</p>
+<p></p>This highlighted common issues: lack of detail, unclear symptoms, and missing context. Roleplay scenarios represented typical non-technical users and executive level submissions to emphasize real world ticket clarity requirements.</p>
 
-Roleplay scenarios were used to represent typical executive-level or non-technical user submissions.</p>
+Roleplay scenarios were used to represent typical executive level or non-technical user submissions.</p>
 
 <img src="https://i.imgur.com/PEkTKHf.png" alt="Disk Sanitization Steps"/>
 <br />
@@ -79,7 +79,7 @@ Roleplay scenarios were used to represent typical executive-level or non-technic
 <li><strong>Determining the correct team (e.g., Database Admins)</li>
 <li><strong>Documenting all relevant troubleshooting steps and findings for handoff</li>
 </ul>
-Tickets were escalated by assigning them to the appropriate higher-tier team, following proper incident management procedures.</p>
+Tickets were escalated by assigning them to the appropriate higher tier team, following proper incident management procedures.</p>
 
  <br/>
  By assigning the ticket to another specific higher tier, the ticket would be escalated.<br/>

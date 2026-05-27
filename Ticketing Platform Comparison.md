@@ -1,7 +1,7 @@
 # Ticketing Systems Lab
-<h1>Ticketing Platform Exposure: Cross-Platform Comparison</h1>
+<h1>Ticketing Platform Exposure: Cross Platform Comparison</h1>
 
-Context: My primary ticketing lab is built on Spiceworks, where I handled full Tier 1 workflows. This supplementary section documents hands-on exposure to four additional industry standard platforms Zendesk, Freshservice, ServiceNow, and Jira Service Management. The goal is to demonstrate platform literacy across the tools most commonly encountered in enterprise and MSP environments.
+Context: My primary ticketing lab is built on Spiceworks, where I handled full Tier 1 workflows. This supplementary section documents exposure to four additional industry standard platforms Zendesk, Freshservice, ServiceNow, and Jira Service Management. The goal is to demonstrate platform literacy across the tools most commonly encountered in enterprise and MSP environments.
 
 -----
 
@@ -9,11 +9,11 @@ Context: My primary ticketing lab is built on Spiceworks, where I handled full T
 
 |Platform               |Primary Use Case              |Tier Target|Notable Strength                      |
 |-----------------------|------------------------------|-----------|--------------------------------------|
-|Spiceworks             |SMB IT Help Desk              |Tier 1     |Free, lightweight, community-driven   |
-|Zendesk                |Customer-facing & internal IT |Tier 1–2   |Omnichannel support, clean UX         |
-|Freshservice           |IT Service Management (ITSM)  |Tier 1–2   |ITIL-aligned, asset management        |
+|Spiceworks             |SMB IT Help Desk              |Tier 1     |Free, lightweight, community driven   |
+|Zendesk                |Customer facing & internal IT |Tier 1–2   |Omnichannel support, clean UX         |
+|Freshservice           |IT Service Management (ITSM)  |Tier 1–2   |ITIL aligned, asset management        |
 |ServiceNow             |Enterprise ITSM               |Tier 2–3   |CMDB, workflow automation, change mgmt|
-|Jira Service Management|Dev-adjacent IT & DevOps teams|Tier 1–3   |Deep Jira/Confluence integration      |
+|Jira Service Management|Dev adjacent IT & DevOps teams|Tier 1–3   |Deep Jira/Confluence integration      |
 
 -----
 
@@ -26,7 +26,7 @@ Context: My primary ticketing lab is built on Spiceworks, where I handled full T
 <h1>Zendesk</h1>
 
 Ticket Creation & SLA
-Upon submission, Zendesk automatically routes the ticket based on configured triggers and assigns it a priority. For a password reset, this typically lands as Low or Normal priority with a first-response SLA of 1-4 hours depending on the plan tier.
+Upon submission, Zendesk automatically routes the ticket based on configured triggers and assigns it a priority. For a password reset, this typically lands as Low or Normal priority with a first response SLA of 1-4 hours depending on the plan tier.
 
 Workflow
 The support specialist can view the requester’s profile, ticket history, and any linked assets on a single pane. I used a macro (Zendesk’s pre-built response template) to send the user a standardized acknowledgment while simultaneously tagging the ticket `account-access` and `password-reset` for reporting purposes.
@@ -56,7 +56,7 @@ Upon resolution, Freshservice prompts the agent to log a Resolution Note and cat
 <h1>ServiceNow</h1>
 
 Ticket Creation & SLA
-ServiceNow separates Incidents from Service Requests at the platform level. A forgotten password may be submitted through the Self-Service Portal as a Service Request catalog item, which triggers a pre-built fulfillment workflow rather than requiring manual triage. SLAs here are governed by OLAs (Operational Level Agreements) tied to assignment groups.
+ServiceNow separates Incidents from Service Requests at the platform level. A forgotten password may be submitted through the SelfService Portal as a Service Request catalog item, which triggers a pre-built fulfillment workflow rather than requiring manual triage. SLAs here are governed by OLAs (Operational Level Agreements) tied to assignment groups.
 
 Workflow
 A support specialist works within the Incident form, which surfaces fields like Category, Subcategory, Configuration Item (CI), and Assignment Group. All feeding into the CMDB (Configuration Management Database). I navigated the fulfillment workflow for a password reset, observing how each task state (Open to Work in Progress then to Resolved) is tracked and auditable.
@@ -82,7 +82,7 @@ Resolving the ticket updates its status on the customer portal in real time. JSM
 
 -----
 
-<h1>Scenario 2 — New Employee Onboarding / Offboarding Request
+<h1>Scenario 2: New Employee Onboarding / Offboarding Request
 
 *IT receives a request to provision (or deprovision) access, hardware, and software for an employee.*
 
@@ -141,11 +141,11 @@ Offboarding in JSM leverages the same automation framework. I observed how linke
 |Feature                |Zendesk              |Freshservice      |ServiceNow      |JSM                   |
 |-----------------------|---------------------|------------------|----------------|----------------------|
 |ITIL Alignment     |Partial              |Full              |Full            |Partial               |
-|SLA Visibility     |Trigger-based        |Live dashboard    |OLA/SLA engine  |Countdown timer       |
-|Asset Management   |Limited              |Built-in          |CMDB (advanced) |Via integrations      |
+|SLA Visibility     |Trigger based        |Live dashboard    |OLA/SLA engine  |Countdown timer       |
+|Asset Management   |Limited              |Built in          |CMDB (advanced) |Via integrations      |
 |Workflow Automation|Macros & triggers    |Workflow automator|Flow Designer   |Automation rules      |
-|Knowledge Base     |Guide (built-in)     |Solution articles |Knowledge module|Confluence integration|
-|Best Fit           |Customer support + IT|SMB/Mid ITSM      |Enterprise ITSM |Dev-adjacent IT teams |
+|Knowledge Base     |Guide (built in)     |Solution articles |Knowledge module|Confluence integration|
+|Best Fit           |Customer support + IT|SMB/Mid ITSM      |Enterprise ITSM |Dev adjacent IT teams |
 
 -----
 
@@ -157,4 +157,4 @@ The practical implication: switching between platforms is a matter of learning t
 
 -----
 
-*Part of the [Ticketing System Lab](../README.md) — IT Support Home Lab Portfolio*
+*Part of the [Ticketing System Lab](../README.md) - IT Support Home Lab Portfolio*

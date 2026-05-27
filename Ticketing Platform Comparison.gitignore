@@ -34,7 +34,7 @@ The support specialist can view the requester’s profile, ticket history, and a
 Resolution & Closure
 After confirming the reset in Active Directory, the ticket is marked Solved. Zendesk holds it in a solved state for a configurable window before auto closing, allowing the user to reopen if the issue persists later on. a small but meaningful UX design that reduces duplicate tickets.
 
-> 📸 [SCREENSHOT PLACEHOLDER — Zendesk agent ticket view showing ticket status, SLA timer, and macro dropdown]
+
 
 -----
 
@@ -49,7 +49,7 @@ Freshservice’s agent workspace includes a built in Activity Log on every ticke
 Resolution & Closure
 Upon resolution, Freshservice prompts the agent to log a Resolution Note and categorize the root cause reinforcing documentation habits expected in ITIL aligned environments.
 
-> 📸 [SCREENSHOT PLACEHOLDER — Freshservice incident ticket showing Activity Log, SLA widget, and resolution note field]
+
 
 -----
 
@@ -64,7 +64,6 @@ A support specialist works within the Incident form, which surfaces fields like 
 Resolution & Closure
 ServiceNow enforces a close code and resolution notes before a ticket can be resolved. This ensures every ticket contributes clean data for reporting and trend analysis.
 
-> 📸 [SCREENSHOT PLACEHOLDER — ServiceNow Incident form showing CI field, OLA timer, assignment group, and workflow state]
 
 -----
 
@@ -79,7 +78,7 @@ JSM’s agent view is familiar to anyone who has used Jira Software. The issue p
 Resolution & Closure
 Resolving the ticket updates its status on the customer portal in real time. JSM’s tight integration with Confluence means resolution steps can be flagged to auto populate a knowledge base article.
 
-> 📸 [SCREENSHOT PLACEHOLDER — JSM issue view showing SLA countdown timer, internal comment vs. customer reply toggle, and request type]
+
 
 -----
 
@@ -97,7 +96,7 @@ Zendesk handles onboarding requests as a standard ticket, but the real value is 
 Offboarding
 For offboarding, a similar form captures the termination date and required access revocations. I observed how agents use tags (`offboarding`, `access-revoke`, `equipment-return`) to filter and report on these tickets in bulk relevant for compliance audits.
 
-> 📸 [SCREENSHOT PLACEHOLDER — Zendesk ticket form for new hire request showing custom fields and side conversation panel]
+
 
 -----
 
@@ -109,7 +108,7 @@ Freshservice shines here through its Service Catalog. An “Employee Onboarding�
 Offboarding
 Freshservice’s Asset Management module becomes directly relevant during offboarding. Support specialist can locate the employee’s assigned assets (laptop, peripherals), initiate a return workflow, and update asset status to `In Transit` or `In Stock` within the same ticket interface.
 
-> 📸 [SCREENSHOT PLACEHOLDER — Freshservice Service Catalog onboarding request showing auto-generated child tasks and asset assignment panel]
+
 
 -----
 
@@ -121,7 +120,7 @@ ServiceNow’s Onboarding workflow is among the most sophisticated of any platfo
 Offboarding
 ServiceNow handles offboarding through a similar catalog workflow, often integrated with HR Service Delivery (HRSD) in enterprise configurations. Even in the trial environment, I could see how the offboarding flow triggers access revocation tasks, notifies the security team, and logs all actions to the CMDB. Effectively creating a full audit trail that satisfies compliance requirements.
 
-> 📸 [SCREENSHOT PLACEHOLDER — ServiceNow Flow Designer view showing onboarding workflow stages and conditional routing logic]
+
 
 -----
 
@@ -133,7 +132,7 @@ JSM handles onboarding through request types in the customer portal, but its dif
 Offboarding
 Offboarding in JSM leverages the same automation framework. I observed how linked issues connect the offboarding ticket to any open access requests or pending hardware orders. The audit trail is visible in the issue’s activity feed which can be exportable for compliance review.
 
-> 📸 [SCREENSHOT PLACEHOLDER — JSM automation rule configuration for onboarding ticket routing and due date assignment]
+
 
 -----
 

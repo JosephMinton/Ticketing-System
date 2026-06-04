@@ -26,7 +26,7 @@ This lab simulates a Tier 1 IT help desk ticketing workflow, focusing on proper 
 First visual of Spiceworks: <br/>
 <img src="https://i.imgur.com/dAtRzpk.png" alt="Disk Sanitization Steps"/>
 <br />
-<h1>I. Ticket Creation and Categorization</h1><br/>
+<h1>1. Ticket Creation and Categorization</h1><br/>
  <p>Created simulated tickets using standard fields: subject, issue description, category, priority, and attachments. This activity practiced documenting issues clearly and categorizing them accurately to support efficient troubleshooting and routing.</p>
 <img src="https://i.imgur.com/OQU9Uld.png" alt="Disk Sanitization Steps"/>
 <br />
@@ -34,7 +34,7 @@ First visual of Spiceworks: <br/>
 <br />
  <br><br>
 
-<h1>II. Documentation Quality and Clarity</h1>
+<h1>2. Documentation Quality and Clarity</h1>
 
 <p>Created a vague ticket to simulate a poorly submitted end user request:</p>
 <ul>
@@ -57,7 +57,7 @@ Roleplay scenarios were used to represent typical executive level or non-technic
 <br />
 <img src="https://i.imgur.com/PR7dMwB.png" alt="Disk Sanitization Steps"/>
 <br />
-<h1>III. Ticket Resolution and Closure</h1>
+<h1>3. Ticket Resolution and Closure</h1>
 
 <p>Followed a resolution checklist:</p>
 <ul>
@@ -72,7 +72,7 @@ Roleplay scenarios were used to represent typical executive level or non-technic
 <img src="https://i.imgur.com/dm42szM.png" alt="Disk Sanitization Steps"/>
 <br />
 
-<h1>IV. Escalation Practice</h1>
+<h1>4. Escalation Practice</h1>
 <p>Simulated a scenario where a user could not access a financial database after basic troubleshooting (password reset, network checks). Tasks included:
 <ul>
 <li><strong>Identifying when escalation was needed</li>

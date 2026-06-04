@@ -6,5 +6,7 @@ Together, these sections reflect the core responsibilities of a help desk or IT 
 - 🖥 [Spiceworks Help Desk Simulation](https://github.com/JosephMinton/Ticketing-System/blob/main/Spiceworks%20Lab.md) 
 A hands-on Tier 1 ticketing workflow built in Spiceworks, covering ticket creation, categorization, prioritization, escalation, and closure. Scenarios include both well-formed and vague user submissions to practice intake triage, documentation standards, and structured handoff to specialized teams.
 
+
+<!--
 - 🔀 Cross-Platform Comparison: Zendesk · Freshservice · ServiceNow · Jira(https://github.com/JosephMinton/Ticketing-System/blob/main/Ticketing%20Platform%20Comparison.md)
 A supplementary study documenting exposure to four additional ITSM platforms through guided trials and demos. Covers password reset and employee onboarding/offboarding workflows across each tool, with annotated screenshots highlighting SLA management, workflow automation, asset tracking, and documentation practices unique to each platform.

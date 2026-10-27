@@ -1,9 +1,17 @@
 # Ticketing System Lab
-A hands-on use case demonstrating how I track, manage, and resolve user issues using a ticketing system.
 
-<h2>Description</h2>
-This lab simulates a Tier 1 IT help desk ticketing workflow, focusing on proper ticket creation, documentation, prioritization, escalation, and closure. Scenarios include well-written and poorly written user tickets to practice identifying missing information, improving clarity, and applying appropriate resolution and escalation procedures. The lab emphasizes real world help desk fundamentals such as user communication, incident management, and clean handoff to specialized teams.
-<br />
+<table>
+  <tr>
+    <td valign="middle">
+      <p>
+        This lab simulates a Tier 1 IT help desk ticketing workflow, focusing on proper ticket creation, documentation, prioritization, escalation, and closure. Scenarios include well-written and poorly written user tickets to practice identifying missing information, improving clarity, and applying appropriate resolution and escalation procedures. The lab emphasizes real world help desk fundamentals such as user communication, incident management, and clean handoff to specialized teams.
+      </p>
+    </td>
+    <td valign="middle" align="center" width="150">
+      <img src="https://i.imgur.com/MsyyjPo.jpeg" alt="Spiceworks Logo" width="150">
+    </td>
+  </tr>
+</table>
 
 <h2>Objective</h2>
 
